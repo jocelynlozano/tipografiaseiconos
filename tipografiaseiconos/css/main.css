@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Dosis:300);
+
+.bloque {
+	width: 13%;
+	height: 70%;
+	float: left;
+	background-color: #FBFBFB;
+	text-align: center;
+	margin: 0.5%;
+	border: 1px black;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #949494;
+	font-size: 20px;
+	padding: -2px; 
+}
+	
+p1 {
+ 	font-family: 'Dosis', sans-serif;
+ 	font-size: 15px;
+ 	color: #8D8D8D;
+ }
+ 	
+.primero {
+
+}
+
+.segundo {
+
+}
+
+.tercero {
+	
+}
+
+.cuarto {
+
+}
+
+.quinto {
+	
+}
+/*.clearfix:before, .clearfix:after {
+   content: " ";
+   display: table;
+}
+
+.clearfix:after {
+   clear: both;
+}*/
+
+@font-face {
+	font-family: "fonts/style.css";
+	src:url("fonts/icomoon.eot");
+}
